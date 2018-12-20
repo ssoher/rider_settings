@@ -1,0 +1,20 @@
+<scheme name="_@user_ReSharper Dark" version="142" parent_scheme="ReSharper Dark">
+  <metaInfo>
+    <property name="created">2017-12-01T03:20:35</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2017.2.1.0.0</property>
+    <property name="modified">2018-12-17T07:19:06</property>
+    <property name="originalScheme">ReSharper Dark</property>
+  </metaInfo>
+  <attributes>
+    <option name="ReSharper.UNITY_IMPLICITLY_USED_IDENTIFIER">
+      <value />
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="BACKGROUND" value="232323" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

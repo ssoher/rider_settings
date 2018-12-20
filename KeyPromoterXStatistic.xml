@@ -1,0 +1,158 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Column Selection Mode">
+        <Item>
+          <IdeaActionID>EditorToggleColumnMode</IdeaActionID>
+          <ShortCut>'Alt+Shift+Insert'</ShortCut>
+          <Description>Column Selection Mode</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'Assembly-CSh…Editor.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'Assembly-CSh…Editor.csproj'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Explorer">
+        <Item>
+          <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Explorer</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'Alt+3'</ShortCut>
+          <Description>Find</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Scratch File">
+        <Item>
+          <IdeaActionID>NewScratchFile</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
+          <Description>New Scratch File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Next Error">
+        <Item>
+          <IdeaActionID>ReSharperGotoNextErrorInSolution</IdeaActionID>
+          <ShortCut>'Alt+F12'</ShortCut>
+          <Description>Next Error</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties...">
+        <Item>
+          <IdeaActionID>EditPropertiesAction</IdeaActionID>
+          <ShortCut>'Alt+Enter'</ShortCut>
+          <Description>Properties...</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Definition">
+        <Item>
+          <IdeaActionID>QuickImplementations</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+I'</ShortCut>
+          <Description>Quick Definition</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F12'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Settings...">
+        <Item>
+          <IdeaActionID>ShowSettings</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+S'</ShortCut>
+          <Description>Settings...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Solution or Project...">
+        <Item>
+          <IdeaActionID>RiderOpenSolution</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+O'</ShortCut>
+          <Description>Solution or Project...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'Alt+6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'Ctrl+F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Type Hierarchy">
+        <Item>
+          <IdeaActionID>TypeHierarchy</IdeaActionID>
+          <ShortCut>'Ctrl+H'</ShortCut>
+          <Description>Type Hierarchy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Version Control">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
+          <Description>Version Control</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Build Solution">
+        <Item>
+          <IdeaActionID>BuildSolutionAction</IdeaActionID>
+          <ShortCut>'Ctrl+F9'</ShortCut>
+          <Description>Build Solution</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Errors In Solution">
+        <Item>
+          <IdeaActionID>ActivateErrorsInSolutionToolWindow</IdeaActionID>
+          <Description>Errors In Solution</Description>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>

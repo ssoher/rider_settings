@@ -1,0 +1,13 @@
+<application>
+  <component name="CodeLensSettings">
+    <enabled>
+      <map>
+        <entry key="ExposingAPI" value="true" />
+        <entry key="Extension methods" value="true" />
+        <entry key="Find usages" value="false" />
+        <entry key="Unity implicit usage" value="true" />
+        <entry key="VcsAuthorCodeLensProvider" value="false" />
+      </map>
+    </enabled>
+  </component>
+</application>

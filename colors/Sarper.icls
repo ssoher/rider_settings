@@ -1,0 +1,218 @@
+<scheme name="Sarper" version="142" parent_scheme="ReSharper Light">
+  <metaInfo>
+    <property name="created">2018-10-31T14:51:16</property>
+    <property name="description" />
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2018.2.3.0.0</property>
+    <property name="modified">2018-12-17T06:53:07</property>
+    <property name="originalScheme">ReSharper Light copy</property>
+    <property name="vendorMail">sarpersoher@gmail.com</property>
+    <property name="vendorName">Sarper Soher</property>
+    <property name="vendorUrl">https://www.sarpersoher.com</property>
+    <property name="version">0.1</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="ff0000" />
+    <option name="CARET_ROW_COLOR" value="dcdde1" />
+    <option name="GUTTER_BACKGROUND" value="e5e7eb" />
+    <option name="INDENT_GUIDE" value="abb1bd" />
+    <option name="LINE_NUMBERS_COLOR" value="abb1bd" />
+    <option name="RIGHT_MARGIN_COLOR" value="abb1bd" />
+    <option name="SELECTED_INDENT_GUIDE" value="abb1bd" />
+    <option name="SELECTION_BACKGROUND" value="19a5ff" />
+    <option name="SELECTION_FOREGROUND" value="ffffff" />
+    <option name="VISUAL_INDENT_GUIDE" value="abb1bd" />
+    <option name="WHITESPACES" value="ff0000" />
+  </colors>
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="329920" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACKETS">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="d26854" />
+      </value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_DOT">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_INSTANCE_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="DEFAULT_INTERFACE_NAME" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="b939be" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="329920" />
+        <option name="EFFECT_COLOR" value="329920" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="6a500" />
+      </value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="d37367" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARENTHS">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="4e5b66" />
+      </value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="e85bf" />
+      </value>
+    </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value>
+        <option name="FOREGROUND" value="35b0bd" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4e5b66" />
+        <option name="BACKGROUND" value="d5dbf2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_1">
+      <value>
+        <option name="FOREGROUND" value="d37367" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_2">
+      <value>
+        <option name="FOREGROUND" value="d37367" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_3">
+      <value>
+        <option name="FOREGROUND" value="d37367" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_4">
+      <value>
+        <option name="FOREGROUND" value="d37367" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_5">
+      <value>
+        <option name="FOREGROUND" value="d37367" />
+      </value>
+    </option>
+    <option name="MARKDOWN_HEADER_LEVEL_6">
+      <value>
+        <option name="FOREGROUND" value="d37367" />
+      </value>
+    </option>
+    <option name="MARKDOWN_INLINE_HTML">
+      <value>
+        <option name="FOREGROUND" value="b58dae" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="4e5b66" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="7a8c9b" />
+        <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="ReSharper.EVENT_IDENTIFIER" baseAttributes="DEFAULT_CLASS_NAME" />
+    <option name="ReSharper.EXTENSION_METHOD_IDENTIFIER" baseAttributes="DEFAULT_INSTANCE_METHOD" />
+    <option name="ReSharper.FORMAT_STRING_ITEM">
+      <value>
+        <option name="FOREGROUND" value="d37367" />
+      </value>
+    </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM_2">
+      <value>
+        <option name="FOREGROUND" value="d37367" />
+      </value>
+    </option>
+    <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
+      <value>
+        <option name="FOREGROUND" value="d37367" />
+        <option name="BACKGROUND" value="dbe0cc" />
+      </value>
+    </option>
+    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="ReSharper.UNITY_IMPLICITLY_USED_IDENTIFIER">
+      <value />
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="36404b" />
+        <option name="BACKGROUND" value="eaecf0" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="d37367" />
+        <option name="ERROR_STRIPE_COLOR" value="ffa500" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
