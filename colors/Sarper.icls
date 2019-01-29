@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2018-12-17T06:53:07</property>
+    <property name="modified">2019-01-29T15:28:25</property>
     <property name="originalScheme">ReSharper Light copy</property>
     <property name="vendorMail">sarpersoher@gmail.com</property>
     <property name="vendorName">Sarper Soher</property>
@@ -69,7 +69,6 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="329920" />
-        <option name="EFFECT_COLOR" value="329920" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
