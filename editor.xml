@@ -28,13 +28,13 @@
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="TodoConfiguration">
-    <pattern useCustomColors="true" pattern="(\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*).">
-      <option name="FOREGROUND" value="abff" />
+    <pattern icon="important" useCustomColors="true" pattern="(\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*).">
+      <option name="FOREGROUND" value="ff0008" />
       <option name="FONT_TYPE" value="1" />
       <option name="EFFECT_TYPE" value="1" />
     </pattern>
-    <pattern icon="important" useCustomColors="true" pattern="(\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*).">
-      <option name="FOREGROUND" value="ff0008" />
+    <pattern useCustomColors="true" pattern="(\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*).">
+      <option name="FOREGROUND" value="abff" />
       <option name="FONT_TYPE" value="1" />
       <option name="EFFECT_TYPE" value="1" />
     </pattern>
@@ -44,10 +44,10 @@
       <option name="EFFECT_TYPE" value="1" />
     </pattern>
     <filter name="TODO">
-      <pattern index="0" />
+      <pattern index="1" />
     </filter>
     <filter name="BUGS">
-      <pattern index="1" />
+      <pattern index="0" />
     </filter>
     <filter name="NOTES">
       <pattern index="2" />
