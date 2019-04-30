@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-04-18T13:22:06</property>
+    <property name="modified">2019-04-30T19:33:50</property>
     <property name="originalScheme">ReSharper Light copy</property>
     <property name="vendorMail">sarpersoher@gmail.com</property>
     <property name="vendorName">Sarper Soher</property>
@@ -12,7 +12,7 @@
     <property name="version">0.1</property>
   </metaInfo>
   <colors>
-    <option name="CARET_COLOR" value="ff0000" />
+    <option name="CARET_COLOR" value="bd0000" />
     <option name="CARET_ROW_COLOR" value="dcdde1" />
     <option name="GUTTER_BACKGROUND" value="e5e7eb" />
     <option name="INDENT_GUIDE" value="abb1bd" />
