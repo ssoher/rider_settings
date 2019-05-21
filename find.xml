@@ -3,6 +3,8 @@
     <option name="customScope" value="Defender3D Codebase" />
     <option name="defaultScopeName" value="Defender3D Codebase" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Defender3D Codebase" />
     <option name="FILE_MASK" value="*.cs" />
