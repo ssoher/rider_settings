@@ -30,7 +30,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Attach to Unity Editor'</Description>
-          <Count>7</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -102,7 +102,7 @@
           <IdeaActionID>XDebugger.NewWatch</IdeaActionID>
           <ShortCut>'Insert'</ShortCut>
           <Description>New Watch...</Description>
-          <Count>3</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Next Error">
@@ -135,6 +135,14 @@
           <ShortCut>'Ctrl+Shift+I'</ShortCut>
           <Description>Quick Definition</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Watch">
+        <Item>
+          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove Watch</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -182,7 +190,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Attach to Unity Editor'</Description>
-          <Count>7</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
