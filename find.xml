@@ -3,6 +3,7 @@
     <option name="customScope" value="100 Balls" />
     <option name="defaultScopeName" value="100 Balls" />
     <option name="SEARCH_SCOPE" value="100 Balls" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
