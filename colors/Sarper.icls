@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-04-30T19:33:50</property>
+    <property name="modified">2019-10-26T12:18:01</property>
     <property name="originalScheme">ReSharper Light copy</property>
     <property name="vendorMail">sarpersoher@gmail.com</property>
     <property name="vendorName">Sarper Soher</property>
@@ -14,7 +14,7 @@
   <colors>
     <option name="CARET_COLOR" value="bd0000" />
     <option name="CARET_ROW_COLOR" value="dcdde1" />
-    <option name="GUTTER_BACKGROUND" value="e5e7eb" />
+    <option name="GUTTER_BACKGROUND" value="e6e6e6" />
     <option name="INDENT_GUIDE" value="abb1bd" />
     <option name="LINE_NUMBERS_COLOR" value="abb1bd" />
     <option name="RIGHT_MARGIN_COLOR" value="abb1bd" />
@@ -194,7 +194,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="14181e" />
-        <option name="BACKGROUND" value="eaecf0" />
+        <option name="BACKGROUND" value="ebebeb" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
