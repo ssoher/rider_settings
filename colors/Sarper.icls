@@ -4,7 +4,7 @@
     <property name="description" />
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-10-26T12:18:01</property>
+    <property name="modified">2019-10-28T06:05:33</property>
     <property name="originalScheme">ReSharper Light copy</property>
     <property name="vendorMail">sarpersoher@gmail.com</property>
     <property name="vendorName">Sarper Soher</property>
@@ -194,7 +194,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="14181e" />
-        <option name="BACKGROUND" value="ebebeb" />
+        <option name="BACKGROUND" value="f0f0f0" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
