@@ -47,6 +47,14 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="JsonEditorOptions">
+    <option name="COMMA_ON_ENTER" value="false" />
+    <option name="COMMA_ON_MATCHING_BRACES" value="false" />
+    <option name="COMMA_ON_PASTE" value="false" />
+    <option name="AUTO_QUOTE_PROP_NAME" value="false" />
+    <option name="AUTO_WHITESPACE_AFTER_COLON" value="false" />
+    <option name="ESCAPE_PASTED_TEXT" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern icon="question" useCustomColors="true" pattern="(\W|^)(?&lt;TAG&gt;NOTE)(\W|$)(.*).">
       <option name="FOREGROUND" value="c9a8" />
@@ -72,5 +80,8 @@
     <filter name="NOTES">
       <pattern index="0" />
     </filter>
+  </component>
+  <component name="YamlEditorOptions">
+    <option name="useSmartPaste" value="false" />
   </component>
 </application>
