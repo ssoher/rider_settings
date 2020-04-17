@@ -12,12 +12,8 @@
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="12" />
-    <option name="FONT_FAMILY" value="JetBrains Mono" />
+    <option name="FONT_SIZE" value="14" />
     <option name="LINE_SPACING" value="1.3" />
   </component>
   <component name="EditorSettings">
@@ -39,6 +35,7 @@
     <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="CARET_BLINKING_PERIOD" value="750" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_BLOCK_CURSOR" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_LEADING_WHITESPACES_SHOWN" value="false" />
